@@ -11,3 +11,9 @@ Assignment 02 - To Create a New Facebook Business Page and post one social media
 
 Assignment 04 - To Create email newsletter design using MailChimp or canva tool. LINK  -    
 https://www.canva.com/design/DAFyvWzbQEw/8iik0xh_NYvsT8XsmOOPaQ/edit?utm_content=DAFyvWzbQEw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Team Memebers
+AATHISH.D        - au421620104001
+ACHUTHAN.S       - au421620104003
+AHAMED BASHA.A   - au421620104004
+AKASH.R          - au421620104005
